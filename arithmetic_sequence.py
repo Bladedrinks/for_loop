@@ -1,5 +1,6 @@
 # Program to create a list consisting of an arithmetic sequence starting at 1 with a common difference of 3,
 # using a for loop.
+
 # The final output is expected to be like this:
 # [1, 4, 7, 10, 13, 16, 19, 22, 25]
 # If the first term is represented by a and the common difference is represented by d
@@ -22,3 +23,5 @@ for i in range(n):
     # ...
     seq.append(a)
 print(seq)
+
+'''This is my GitHub demo.'''
