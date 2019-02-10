@@ -1,4 +1,5 @@
 # Program to find and display all PRIME factors of a number (mainly a composite number).
+# (This program has been uploaded to Github.com on Feb 10, 2019.)
 
 
 # Define a function to insert a conjunction of " and " into string.
